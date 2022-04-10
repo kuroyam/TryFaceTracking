@@ -31,7 +31,7 @@ public class FaceTracking : MonoBehaviour
         neck = animator.GetBoneTransform(HumanBodyBones.Neck);
 
         var head = animator.GetBoneTransform(HumanBodyBones.Head);
-        headOffset = new Vector3(0f, head.position.y, 0f);
+        headOffset = new Vector3(0f, head.position.y + 0.07f, -0.02f);
 
         blendShapeProxy = avatar.GetComponent<VRMBlendShapeProxy>();
     }
