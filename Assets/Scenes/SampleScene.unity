@@ -485,7 +485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   faceManager: {fileID: 1684834197}
-  avatarPrefab: {fileID: 8945809833639563516, guid: 08aa1c21bb6d24e1e9ca92ae826513ed, type: 3}
+  avatarPrefab: {fileID: 8342943257881852874, guid: e574fc6b0055d4fce974d73d2144c691, type: 3}
 --- !u!4 &1966854994
 Transform:
   m_ObjectHideFlags: 0
